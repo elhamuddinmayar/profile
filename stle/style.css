@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(226, 219, 158);
+    font-family: sans-serif;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 500px;
+    height: 400px;
+    background-color: bisque;
+    margin: auto;
+    margin-top: 80px;
+    padding: 25px 0;
+    border-radius: 25px;
+    box-shadow: 0 0 8px white;
+}
+
+.logo {
+
+    width: 150px;
+    display: block;
+    margin: auto;
+    border: 2px dotted white;
+    border-radius: 50%;
+}
+
+.name {
+    color: rgb(46, 30, 52);
+    width: 240px;
+    text-align: center;
+    font-size: 25px;
+    border-bottom: 5px solid gray;
+    margin: auto;
+
+}
+
+.desc {
+    text-align: center;
+}
+
+.social {
+    height: 60px;
+    background-color: rgb(215, 195, 234);
+    border: 3px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.social img {
+    width: 50px;
+    padding: 5px;
+
+}
